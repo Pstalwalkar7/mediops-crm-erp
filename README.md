@@ -1,7 +1,8 @@
 
-# MediOps CRM + ERP Demo
+# MediOps CRM + ERP
 
-A compact healthcare-focused CRM/ERP prototype for exploring sales, operations, inventory, and workflow automation in one place.
+A healthcare CRM & ERP prototype demonstrating enterprise workflows, dashboards, workflow automation, and a roadmap for AI-assisted business operations.
+Deployed at https://mediops-crm-erp.streamlit.app/ 
 
 ## What it demonstrates
 
