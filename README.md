@@ -20,11 +20,12 @@ A compact healthcare-focused CRM/ERP prototype for exploring sales, operations, 
 - Basic operational reporting
 
 ### Automation / AI concepts
-- Low-stock alerts
-- Stale-lead follow-up recommendations
-- Won-deal handoff workflow
-- Forecast prioritization
-- Human-reviewed AI recommendations
+
+- Prototype: Low-stock alert workflow
+- Prototype: Stale-lead follow-up recommendations
+- Prototype: Won-deal handoff workflow
+- Concept: Sales forecast prioritization
+- Concept: Human-reviewed AI recommendations
 
 ## Run locally
 
